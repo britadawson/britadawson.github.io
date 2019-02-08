@@ -7,11 +7,24 @@ body {
 }
 
 h1 {
+    font-family: serif;
     margin-left: 0%;
     text-align: center;
+    border-bottom-style: dotted;
+    border-color: gray;
+}
+
+h2 {
+    font-family: serif;
+    border-top-style: dotted;
+    border-color: gray;
 }
 
 .joke {
     font-size: 12px;
     color: white;
+}
+
+.location {
+    font-weight: bold;
 }
